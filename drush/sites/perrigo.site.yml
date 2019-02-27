@@ -1,0 +1,6 @@
+local:
+    root: /var/www/perrigo/docroot
+    uri: 'http://local.perrigo.com'
+    host: local.perrigo.com
+    user: vagrant
+    ssh: { options: '-o PasswordAuthentication=no -i $HOME/.vagrant.d/insecure_private_key' }
