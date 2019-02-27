@@ -5,7 +5,9 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "acquia/blt": "^9.2.0"
+        "acquia/acsf-tools": "dev-9.x-dev",
+        "acquia/blt": "^9.2.0",
+        "drupal/acsf": "^2.47.0"
     },
     "require-dev": {
         "geerlingguy/drupal-vm": "^4.8"

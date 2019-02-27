@@ -1,7 +1,7 @@
 project:
   machine_name: perrigo
   prefix: PRGO
-  human_name: 'Perrigo'
+  human_name: Perrigo
   profile:
     name: lightning
   local:
@@ -21,7 +21,7 @@ drush:
 modules:
   local:
     enable: [dblog, devel, seckit, views_ui]
-    uninstall: [acquia_connector, shield]
+    uninstall: [acquia_connector, shield, acsf]
   ci:
     enable: {  }
     uninstall: [acquia_connector, shield]
