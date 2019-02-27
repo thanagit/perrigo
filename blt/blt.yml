@@ -9,7 +9,8 @@ project:
     hostname: 'local.${project.machine_name}.com'
 git:
   default_branch: master
-  remotes: {  }
+  remotes:
+    cloud: 'perrigo@svn-2398.enterprise-g1.hosting.acquia.com:perrigo.git'
 deploy:
   tag_source: true
 drush:
