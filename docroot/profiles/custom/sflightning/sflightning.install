@@ -4,11 +4,3 @@
  * @file
  * Install, update and uninstall hooks for the sflightning subprofile.
  */
-
-/**
- * Implements hook_install().
- */
-function sflightning_install() {
-  // Add code here perform additional site information tasks, generate sample
-  // content, etc.
-}
