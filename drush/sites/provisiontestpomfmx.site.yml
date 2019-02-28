@@ -1,0 +1,16 @@
+01dev:
+    uri: provisiontestpomfmx.dev-perrigo.acsitefactory.com
+    host: staging-3551.enterprise-g1.hosting.acquia.com
+    options: {  }
+    paths: { dump-dir: /mnt/tmp }
+    root: /var/www/html/perrigo.01dev/docroot
+    user: perrigo.01dev
+    ssh: { options: '-p 22' }
+01live:
+    uri: provisiontestpomfmx.perrigo.acsitefactory.com
+    host: web-3549.enterprise-g1.hosting.acquia.com
+    options: {  }
+    paths: { dump-dir: /mnt/tmp }
+    root: /var/www/html/perrigo.01live/docroot
+    user: perrigo.01live
+    ssh: { options: '-p 22' }
