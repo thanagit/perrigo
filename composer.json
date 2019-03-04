@@ -10,7 +10,8 @@
         "drupal/acsf": "^2.47.0",
         "drupal/advagg": "^3.5",
         "drupal/imce": "^1.7",
-        "drupal/paragraphs": "^1.6"
+        "drupal/paragraphs": "^1.6",
+        "drupal/sitemap": "^1.5"
     },
     "require-dev": {
         "geerlingguy/drupal-vm": "^4.8"
