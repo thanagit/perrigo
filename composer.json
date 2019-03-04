@@ -8,6 +8,7 @@
         "acquia/acsf-tools": "dev-9.x-dev",
         "acquia/blt": "^9.2.0",
         "drupal/acsf": "^2.47.0",
+        "drupal/advagg": "^3.5",
         "drupal/paragraphs": "^1.6"
     },
     "require-dev": {
