@@ -13,8 +13,15 @@
         "drupal/imce": "^1.7",
         "drupal/module_filter": "^3.1",
         "drupal/paragraphs": "^1.6",
+        "drupal/samlauth": "^2.0@dev",
         "drupal/sitemap": "^1.5"
     },
+    "repositories": {
+            "drupal": {
+                "type": "composer",
+                "url": "https://packages.drupal.org/8" 
+            }
+    },    
     "require-dev": {
         "geerlingguy/drupal-vm": "^4.8"
     },

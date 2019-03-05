@@ -1,0 +1,14 @@
+uuid: 81013748-ebba-4c3f-b927-115a28352e5a
+name: lightning
+mail: david.platek@acquia.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
