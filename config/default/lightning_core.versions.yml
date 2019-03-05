@@ -107,5 +107,6 @@ acsf_duplication: 2.52.0
 acsf_variables: 2.52.0
 acsf_theme: 2.52.0
 acsf: 2.52.0
-devel: 1.2.0
-seckit: 1.1.0
+externalauth: 1.1.0
+samlauth: 2.0.0-alpha1
+acsf_sso: 2.52.0
