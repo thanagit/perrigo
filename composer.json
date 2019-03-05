@@ -8,8 +8,20 @@
         "acquia/acsf-tools": "dev-9.x-dev",
         "acquia/blt": "^9.2.0",
         "drupal/acsf": "^2.47.0",
-        "drupal/samlauth": "^2.0@dev"
+        "drupal/advagg": "^3.5",
+        "drupal/bootstrap": "^3.17",
+        "drupal/imce": "^1.7",
+        "drupal/module_filter": "^3.1",
+        "drupal/paragraphs": "^1.6",
+        "drupal/samlauth": "^2.0@dev",
+        "drupal/sitemap": "^1.5"
     },
+    "repositories": {
+            "drupal": {
+                "type": "composer",
+                "url": "https://packages.drupal.org/8" 
+            }
+    },    
     "require-dev": {
         "geerlingguy/drupal-vm": "^4.8"
     },
