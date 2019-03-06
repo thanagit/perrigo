@@ -110,3 +110,5 @@ acsf: 2.52.0
 externalauth: 1.1.0
 samlauth: 2.0.0-alpha1
 acsf_sso: 2.52.0
+config_filter: 1.4.0
+config_ignore: 2.1.0
