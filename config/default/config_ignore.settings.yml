@@ -1,8 +1,0 @@
-ignored_config_entities:
-  0: core.extension
-  2: lightning_core.versions
-  4: samlauth.authentication
-  6: acquia_connector.settings
-  8: acsf.settings
-_core:
-  default_config_hash: UVH1aJ4b44UM-VdPVN7hNNuuVqfReJxwfVeDQH1Hvsk
